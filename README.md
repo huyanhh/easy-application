@@ -237,6 +237,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [NCMEC](http://www.missingkids.com/Careers) | Alexandria, VA |
 | [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
+| [Narrative Science](https://www.narrativescience.com/careers) | Chicago, IL |
 | [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
 | [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
